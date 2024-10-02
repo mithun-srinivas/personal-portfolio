@@ -63,5 +63,7 @@ Deployment: Making our app/webpage public
 
 Deployment Services:
 - Github Pages [ Public Repo ]
+    setting > pages > select branch > save 
+    actions > get link
 - Netlify 
 - Vercel
