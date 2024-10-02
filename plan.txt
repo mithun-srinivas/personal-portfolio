@@ -1,0 +1,67 @@
+1. Home Page
+
+Navbar 
+    - Home 
+    - Contact
+    - Resume 
+
+Intro section 
+    - Heading 
+    - Image 
+    - About Me 
+
+Experience 
+    - List all my Experience
+
+Skills 
+    - List all my skills
+
+Achievements 
+    - List all my achievements
+
+Footer
+    - Home 
+    - Contact
+    - Resume 
+    - Social
+
+2. Contact Us Page 
+
+Navbar 
+    - Home 
+    - Contact
+    - Resume 
+
+Contact Me form 
+    - First name
+    - Last Name 
+    - Email 
+    - Phone 
+    - Submit
+
+Social Links 
+    - LinkedIn 
+    - Youtube
+
+Embed Map 
+    - Bangalore
+
+Footer
+    - Home 
+    - Contact
+    - Resume 
+    - Social
+
+
+
+Deployment: Making our app/webpage public 
+
+1. Development: The code is being written and is in dev's local. 
+2. Staging State: The code is on service: GitHub 
+3. Testing State: Test Server  
+4. Production State: Prod Server
+
+Deployment Services:
+- Github Pages [ Public Repo ]
+- Netlify 
+- Vercel
